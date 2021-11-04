@@ -1,0 +1,26 @@
+{
+  "development": {
+    "username": "root",
+    "password": "root",
+    "database": "dbvoyageur",
+    "host": "127.0.0.1",
+    "port": "5432",
+    "dialect": "postgresql"
+  },
+  "test": {
+    "username": "root",
+    "password": "root",
+    "database": "dbvoyageur",
+    "host": "127.0.0.1",
+    "port": "5432",
+    "dialect": "postgresql"
+  },
+  "production": {
+    "username": "root",
+    "password": null,
+    "database": "database_production",
+    "host": "127.0.0.1",
+    "port": "5432",
+    "dialect": "mysql"
+  }
+}
